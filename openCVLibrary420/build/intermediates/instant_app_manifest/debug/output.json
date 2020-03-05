@@ -1,0 +1,1 @@
+[{"outputType":{"type":"INSTANT_APP_MANIFEST"},"apkData":{"type":"MAIN","splits":[],"versionCode":4200,"versionName":"4.2.0","enabled":true,"outputFile":"openCVLibrary420-debug.apk","fullName":"debug","baseName":"debug"},"path":"AndroidManifest.xml","properties":{"packageId":"org.opencv","split":"","minSdkVersion":"1"}}]
